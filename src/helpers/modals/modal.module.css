@@ -1,0 +1,8 @@
+.modalContainer{
+
+    width: 40%;
+    border-right: 1px solid #eee;
+    height: 100vh;
+    background: #fff;
+    margin: 40px auto;
+}

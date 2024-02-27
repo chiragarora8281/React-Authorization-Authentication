@@ -1,0 +1,44 @@
+{
+  "courses": [
+    {
+      "title": "nodejs",
+      "trainer": "shashi",
+      "description": "This React JS Notes for Professionals book is compiled from Stack Overflow\nDocumentation, the content is written by the beautiful people at Stack Overflow.\nText content is released under Creative Commons BY-SA, see credits at the end\nof this book whom contributed to the various chapters. Images may be copyright\nof their respective owners unless otherwise specified",
+      "id": "d374"
+    },
+    {
+      "title": "flutter",
+      "trainer": "pooja",
+      "description": "e information presented in this book is not guaranteed to be correct nor\naccurate, use at your own risk",
+      "id": "8351"
+    },
+    {
+      "id": "5e6a",
+      "title": "java",
+      "trainer": "dixith",
+      "description": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.",
+      "createdAt": "2024-01-22"
+    },
+    {
+      "id": "04ca",
+      "title": "dotnet",
+      "trainer": "girish",
+      "description": "asdfghjkl;",
+      "createdAt": "2024-01-27"
+    },
+    {
+      "id": "8e69",
+      "title": "python",
+      "trainer": "something",
+      "description": "zxcvbnm,.",
+      "createdAt": "2024-01-22"
+    },
+    {
+      "id": "b136",
+      "title": "spring",
+      "trainer": "rohit",
+      "description": "asdfghjkl;",
+      "createdAt": "2024-01-22"
+    }
+  ]
+}
